@@ -24,15 +24,15 @@ This application provides users with the following features
 ##### Home Page
 ![Home Page](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern1.PNG)
 ##### Login
-![Login](https://drive.google.com/file/d/1E06NnmRcTZL2oVh2dA_Ck-uT-2vUR3u2/view?usp=share_link)
+![Login](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern3.PNG)
 <br/><br/>
 ##### Sign Up 
-![Sign Up](https://drive.google.com/file/d/1-chOX9P4LUgHXj4mQXk1mgilztDHqgMz/view)
+![Sign Up](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern2.PNG)
 ##### Private Chat
-![Private Chat](https://drive.google.com/file/d/1g4Ovj3640_kOIcSCKHdjAROZ4q6SqzUX/view?usp=share_link)
+![Private Chat](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern8.PNG)
 <br/><br/>
 ##### Group Chat
-![Group Chat](https://drive.google.com/file/d/1c-7llQWiuBDT8Thneuao8OvFq20zsiS6/view?usp=share_link)
+![Group Chat](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern5.PNG)
 <br/><br/>
 
 
