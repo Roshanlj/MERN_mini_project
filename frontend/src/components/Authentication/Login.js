@@ -66,7 +66,11 @@ const Login = () => {
       toast("Login successful");
       localStorage.setItem("userInfo", JSON.stringify(data));
       setLoading(false);
-      history.push("/chats");
+      history.push({
+        'pathname': '/chats',
+        'key': 'value'
+    })
+    document.location.reload()
     } catch (error) {
       toast("Error Occured");
       setLoading(false);
