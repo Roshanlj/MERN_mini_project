@@ -22,7 +22,7 @@ This application provides users with the following features
 
 #### Screenshots
 ##### Home Page
-![Home Page](https://imageshack.com/i/pnbKURDwp)
+![Home Page](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern1.PNG)
 ##### Login
 ![Login](https://drive.google.com/file/d/1E06NnmRcTZL2oVh2dA_Ck-uT-2vUR3u2/view?usp=share_link)
 <br/><br/>
