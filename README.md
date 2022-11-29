@@ -22,8 +22,7 @@ This application provides users with the following features
 
 #### Screenshots
 ##### Home Page
-![Home Page](https://drive.google.com/file/d/1OtHwpWeBik8TyVWSm3Sl55shPF1bItlU/view)
-<br/><br/>
+![Home Page](https://imageshack.com/i/pnbKURDwp)
 ##### Login
 ![Login](https://drive.google.com/file/d/1E06NnmRcTZL2oVh2dA_Ck-uT-2vUR3u2/view?usp=share_link)
 <br/><br/>
