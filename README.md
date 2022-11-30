@@ -35,6 +35,12 @@ This application provides users with the following features
 ![Group Chat](https://github.com/Roshanlj/MERN_mini_project/blob/master/ss/mern5.PNG)
 <br/><br/>
 
+### Future Scope
+* Allowing user to send Photos and Videos in the chat.
+* Allowing user to send voice notes.
+* Including GIF and stickers in the chat.
+* Status feature.
+* Allowing user to change profile picture.
 
 ### Things to note
 
@@ -44,5 +50,14 @@ This application provides users with the following features
 
 ### Contribution 
 Roshan Jadhav -- Backend using express and MongoDB 
-Soham Dubewar -- Frontend using React , Dependency handling using npm , Readme file  
+<br/>
+Soham Dubewar -- Frontend using React , Dependency handling using npm , Readme file 
+<br/>
 Dhairye Thakkar -- Frontend, Chat logic 
+<br/>
+
+### Acknowledgement
+
+*KJ somaiya College of Engineering
+
+Faculty -- Vaibhav Vasani, Gopal Sonune, Swapnil Pawar, Sonia Joshi.
