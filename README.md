@@ -46,18 +46,18 @@ This application provides users with the following features
 
 * The frontend is created using [create-react-app](https://github.com/facebook/create-react-app)
 * Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/)
-
+<br/>
 
 ### Contribution 
 Roshan Jadhav -- Backend using express and MongoDB 
 <br/>
 Soham Dubewar -- Frontend using React , Dependency handling using npm , Readme file 
 <br/>
-Dhairye Thakkar -- Frontend, Chat logic 
+Dhairya Thakkar -- Frontend, Chat logic , Socket.IO
 <br/>
 
 ### Acknowledgement
 
-*KJ somaiya College of Engineering
+KJ somaiya College of Engineering
 
 Faculty -- Vaibhav Vasani, Gopal Sonune, Swapnil Pawar, Sonia Joshi.
