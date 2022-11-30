@@ -45,4 +45,4 @@ This application provides users with the following features
 ### Contribution 
 Roshan Jadhav -- Backend using express and MongoDB 
 Soham Dubewar -- Frontend using React , Dependency handling using npm , Readme file  
-Dhairye Thakkar -- Frontend using CSS, Chat logic , Socket.IO integration 
+Dhairye Thakkar -- Frontend, Chat logic 
